@@ -1,0 +1,1 @@
+print('To buy: \n********* \nBread \nMilk \nTea \nEggs')
